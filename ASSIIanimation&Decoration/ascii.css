@@ -1,5 +1,4 @@
 
-
 body{
     background-color: #CCCCFF;
     font: 10pt bold;
@@ -10,6 +9,7 @@ body{
     font-size: 32pt;
     text-align: center;
     margin: 0px;
+    
 }
 
 #viewBoard{

@@ -45,17 +45,7 @@ $(function(){
         let next=currentOpacity-0.1;
 
         $(this).css("opacity",next);
-    }
-
-
-
-
-
-
-
-
-
-    ,200);
+    }    ,200);
 
 
 

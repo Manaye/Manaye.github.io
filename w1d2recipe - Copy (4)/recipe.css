@@ -1,0 +1,50 @@
+body{
+    background-image: url("../images/background2.jif")
+}
+
+h1 {
+    font-family: Lucida Sans Unicode, Helvetica,Arial,sans-serif;
+    text-align: left;
+    font-weight: bold;
+    font-size: 22pt;
+    text-decoration: underline;
+    color: #A4A400;
+    background-color: #F0F0F0;
+    padding-left: 220px;
+  }
+  
+  h2 {
+    background-color: #F0F0F0;
+    font-family: Lucida Sans Unicode, Helvetica,Arial,sans-serif;
+    color: #A4A400;
+  }
+  h3 {
+    background-color: #F0F0F0;
+    font-family: Lucida Sans Unicode, Helvetica,Arial,sans-serif;
+    color: #A4A400;
+  }
+  #comment1{
+    font-style: italic;
+    background-color: #FFFFA8;
+}
+#comment2{
+   font-style: italic;
+   background-color: #FFFFA8;
+}
+#comment3{
+   font-style: italic;
+   background-color: #FFFFA8;
+}
+ul{
+   list-style-image: url("recipeImages/pie_bullet.png");
+}
+.links{
+   color: #A4A400;
+}
+pre{
+    font-family: monospace;
+    text-align: right;
+}
+#validator{
+    text-align: right;
+}

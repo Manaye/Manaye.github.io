@@ -16,6 +16,9 @@ body{
 
 
 }
+h1{
+    color: brown;
+}
 #poster > img{
     border: 2px solid burlywood;
     border-radius: 10px;
@@ -25,3 +28,6 @@ body{
 
 }
 
+ul,li{
+    color: brown;
+}
